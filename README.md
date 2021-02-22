@@ -1,8 +1,14 @@
 React Project Best Practice Test
 =
 
-1. functional component because it is simply returns html UI, accept properties, & stateless, 
-2. 
+1. Functional because it is simply returns html UI, accept properties, & stateless, 
+2. Axios because simplicity of setting timeout, automatically stringifies the data when sending requests
+3. Plugin, And Function
+4. React Native Navigation, because performance will/may be better.
+5. Yes
+
+Practice Test
+=
 
 > **Installation**
  
