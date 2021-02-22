@@ -1,3 +1,9 @@
+React Project Best Practice Test
+=
+
+1. functional component because it is simply returns html UI, accept properties, & stateless, 
+2. 
+
 > **Installation**
  
 1. Clone this repo
