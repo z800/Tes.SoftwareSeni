@@ -1,11 +1,12 @@
 > **Installation**
  
 1. Clone this repo
-2. Go to Q1 Folder
-3. Execute with
-
 ```
-go run .
+git clone https://github.com/z800/Tes.SoftwareSeni.git
+```
+2. Go to Tes.SoftwareSeni
+```
+npm install && npm start
 ```
 > **Result**
 
